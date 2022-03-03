@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @malayMohanta
 - 👀 I’m interested in travel, exploring, Football, chess, movies, music and a little bit coding
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine learning, Deep Learning and in the near future- Data structures
+- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning
 - 📫 How to reach me - malay10.leo@gmail.com, https://www.linkedin.com/in/malay-kumar-mohanta-bb41a6126
 
 <!---
